@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Blitzyanic/Blitzyanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌏 I'm based in Germany
+- 💻 I use Arch, btw
 
-Here are some ideas to get you started:
+## Skills
+![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,rust,python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![blitzyanic's Stats](https://github-readme-stats.vercel.app/api?username=blitzyanic&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+
+## random jokes
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight) 
