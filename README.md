@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🌏 I'm based in Germany
-- 💻 I use Arch, btw
+- 💻 I use Arch, btw (yes my personality is build on this)
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,rust,python)
