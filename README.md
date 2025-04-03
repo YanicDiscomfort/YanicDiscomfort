@@ -4,7 +4,7 @@
 - 💻 I use Arch, btw (yes my personality is build on this)
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,rust,python)
+![My Skills](https://skillicons.dev/icons?i=linux,arch,git,bash,kotlin,python,typescript)
 
 ## Stats
 ![blitzyanic's Stats](https://github-readme-stats.vercel.app/api?username=blitzyanic&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
