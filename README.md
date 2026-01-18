@@ -1,27 +1,32 @@
-# Hi there 👋
+# Hi, I’m Yanic 👋
 
-Welcome to my GitHub profile! I'm glad you're here. Here's a little about me:
-
-- 🌍 Based in Germany
-- 💻 Proud Arch Linux user (yes, I had to mention it 😉)
-- 🚀 Passionate about open-source, coding, and learning new technologies
+Software Developer based in Germany with a focus on application development, clean code, and practical solutions.  
 
 ---
 
-## 🛠️ Skills & Tools
-![Skills](https://skillicons.dev/icons?i=linux,arch,git,bash,kotlin,python,typescript)
+## About
+
+- Interested in full-stack development 
+- Preference for readable, maintainable code    
+- Repositories may vary in completeness and polish >///<  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanicDiscomfort&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanicDiscomfort&theme=tokyonight&layout=compact&hide_border=true)
+## Tech I Work With
+
+- **Languages:** Kotlin, Rust, TypeScript
+- **Technologies:** Jetpack Compose, Node.js, React  
+- **Databases:** PostgreSQL, SQLite, MySQL  
+- **Tools:** Git, Docker  
 
 ---
 
-## 🎉 Fun Stuff
-### Random Jokes
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
+## Notes
 
-### Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- Not all repositories represent finished or production-ready work  
+- Public projects are mainly for reference, learning, and experimentation  
+- A few repositories are maintained to professional standards  
+
+---
+
+<!-- ## Contact -->  
