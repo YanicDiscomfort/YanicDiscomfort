@@ -27,6 +27,5 @@ Software Developer based in Germany with a focus on application development, cle
 - Public projects are mainly for reference, learning, and experimentation  
 - A few repositories are maintained to professional standards  
 
----
 
 <!-- ## Contact -->  
